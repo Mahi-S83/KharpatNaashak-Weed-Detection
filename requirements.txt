@@ -1,0 +1,7 @@
+ultralytics
+gradio
+opencv-python
+matplotlib
+pillow
+reportlab
+fpdf
