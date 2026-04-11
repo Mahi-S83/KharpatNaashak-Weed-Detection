@@ -54,7 +54,7 @@ from reportlab.pdfgen import canvas
 
 # STEP 6: Load model
 print("\n🚀 Loading model...")
-model = YOLO(model_path)
+model = YOLO('best.pt')  # not the Google Drive path
 print("   ✅ Model loaded!")
 
 # Weed names
