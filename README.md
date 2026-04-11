@@ -12,4 +12,4 @@ Detects 16 weed species in Madhya Pradesh agriculture.
 - PDF reports
 
 ## Live Demo
-[Add Hugging Face link after deployment]
+(https://huggingface.co/spaces/mahi00/KharpatNaashak-Weed-Detection)
